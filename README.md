@@ -11,6 +11,7 @@
 
 ## 🔧 Languages and Tools
 
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/> HTML
@@ -45,6 +46,7 @@
 
 🧠 Practice Platforms
 
+
   <p>Hackerrank</p>
   <a href="https://www.hackerrank.com/Anusha R/@anusharavi_828">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" alt="HackerRank"/>
@@ -57,8 +59,11 @@
 
 ## 📊 GitHub Stats
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Anusharavi05&label=Profile%20views&color=0e75b6&style=flat)
+
 ![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anusharavi05&show_icons=true&theme=default&count_private=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Anusharavi05&theme=default)
 
 
