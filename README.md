@@ -12,7 +12,7 @@ A student from MIT , currently learning Datascience and python in artitificial i
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/> HTML
   </a><br/>
-  
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/> CSS
   </a><br/>
@@ -86,8 +86,13 @@ My practice platforms
 
 
 ## 📫 Connect with Me
+  <p>Gmail</p>
+ <p align="left">
+  <a href="mailto:anusharavi828@gmail.com.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail"/>
+  </a>
+</p>
 
-- [![Gmail](https://cdn-icons-png.flaticon.com/512/732/732200.png =30x30)](mailto:your-email@gmail.com)
 - <p align="left">
   <p>Github</p>
   <a href="https://github.com/Anusharavi05">
