@@ -12,9 +12,11 @@ A student from MIT , currently learning Datascience and python in artitificial i
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -48,7 +50,8 @@ My practice platforms
 
 - ✉️ Email: [anusharavi828@gmail.com](mailto:anusha828@gmail.com)
 - 💼 GitHub: [github.com/Anusha](https://github.com/Anusharavi05)
-- 💼 [LinkedIn](https://www.linkedin.com/in/anusha-ravi-40b04b292/)
+-  [LinkedIn](https://www.linkedin.com/in/anusha-ravi-40b04b292/)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="40" height="40">
+
 
 
 
