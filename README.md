@@ -22,6 +22,7 @@ A student from MIT , currently learning Datascience and python in artitificial i
 My practice platforms
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/anusha_ravi)
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/anusharavi_828)
 
 
