@@ -19,9 +19,12 @@ A student from MIT , currently learning Datascience and python in artitificial i
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+My practice platforms
+![HACKERRANK](https://www.hackerrank.com/profile/anusharavi_828)
+![LEETCODE](https://leetcode.com/u/anusha_ravi/)
 
 
----
+
 
 ## 📊 GitHub Stats (Auto-updated)
 
@@ -40,10 +43,9 @@ A student from MIT , currently learning Datascience and python in artitificial i
 ## 📫 Connect with Me
 
 - ✉️ Email: [anusharavi828@gmail.com](mailto:anusha828@gmail.com)
-- 💼 GitHub: [github.com/Anusha](https://github.com/Anusha)
-- 🔗 [Resume](https://drive.google.com/file/d/your_resume_link_here/view?usp=drive_link)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 💼 GitHub: [github.com/Anusha](https://github.com/Anusharavi05)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anusha-ravi-40b04b292/)
 
 ---
 
-> ⏱ *This README updates dynamically using GitHub APIs and shields.io for contributions, languages, streaks, and views.*
+
