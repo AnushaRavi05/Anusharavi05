@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anusha
 
-A passionate FullStack Developer from India, currently Datascience and python in artitificial intelligence.
+A student from MIT , currently learning Datascience and python in artitificial intelligence.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anusha&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -17,7 +17,6 @@ A passionate FullStack Developer from India, currently Datascience and python in
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
