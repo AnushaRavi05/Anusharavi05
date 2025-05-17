@@ -9,10 +9,6 @@
 📚 Eager to explore Machine Learning, Deep Learning, and real-world AI use cases
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anusharavi05&label=Profile%20views&color=0e75b6&style=flat)
-
-
-
 ## 🔧 Languages and Tools
 
 <p align="left">
@@ -61,8 +57,10 @@
 
 ## 📊 GitHub Stats
 
+![Profile Views](https://komarev.com/ghpvc/?username=Anusharavi05&label=Profile%20views&color=0e75b6&style=flat)
 ![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anusharavi05&show_icons=true&theme=default&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Anusharavi05&theme=default)
+
 
 
 
