@@ -59,7 +59,6 @@ My practice platforms
 ## 📊 GitHub Stats
 
 ![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anusharavi05&show_icons=true&theme=default&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anusharavi05&layout=compact&theme=default)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Anusharavi05&theme=default)
 
 
