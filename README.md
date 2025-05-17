@@ -2,9 +2,10 @@
 
 A undergrad from Anna University,MIT campus  <p align="left">
   <a href="https://annauniv.edu">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Anna_University_Logo.svg" width="40" alt="Anna University"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/7/7e/Anna_University_Logo.png" width="50" alt="Anna University"/>
   </a>
 </p>
+
 
 
  
