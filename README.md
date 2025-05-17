@@ -1,6 +1,11 @@
 # Hi 👋, I'm Anusha
 
-A student from MIT , currently learning Datascience and python in artitificial intelligence.
+A undergrad from Anna University,MIT campus  <a href="https://annauniv.edu" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Anna_University_Logo.svg/1200px-Anna_University_Logo.svg.png" width="40" alt="Anna University"/>
+  </a>
+</p>
+ 
+I currently learning Datascience Applications and python in artificial intelligence.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anusharavi05&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -76,14 +81,14 @@ My practice platforms
    <p>anusharavi828@gmail.com</p>
 </p>
 
-- <p align="left">
+<p align="left">
   <p>Github</p>
   <a href="https://github.com/Anusharavi05">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
     (https://github.com/AnushaRavi05)
   </a>
   <p>LinkedIn</p>
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="40" height="40">
 (https://www.linkedin.com/in/anusha-ravi-40b04b292/)
 
 
