@@ -12,39 +12,30 @@ A student from MIT , currently learning Datascience and python in artitificial i
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/> HTML
   </a><br/>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/> CSS
   </a><br/>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/> JavaScript
   </a><br/>
-
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/> TypeScript
   </a><br/>
-
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/> Java
   </a><br/>
-
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/> React
   </a><br/>
-
   <a href="https://angular.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/> Angular
   </a><br/>
-
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/> Node.js
   </a><br/>
-
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/> Express.js
   </a><br/>
-
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/> Git
   </a>
@@ -53,8 +44,6 @@ A student from MIT , currently learning Datascience and python in artitificial i
 
 
 My practice platforms
-
-
 
   <p>Hackerrank</p>
   <a href="https://www.hackerrank.com/Anusha R/@anusharavi_828">
@@ -65,11 +54,6 @@ My practice platforms
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/>
   </a>
 </p>
-
-
-
-
-
 
 ## 📊 GitHub Stats
 
@@ -83,14 +67,13 @@ My practice platforms
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Anusharavi05&theme=flat&column=7)
 
-
-
 ## 📫 Connect with Me
   <p>Gmail</p>
  <p align="left">
   <a href="mailto:anusharavi828@gmail.com.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail"/>
   </a>
+   <p>anusharavi828@gmail.com</p>
 </p>
 
 - <p align="left">
