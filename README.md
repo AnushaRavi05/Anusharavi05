@@ -1,9 +1,12 @@
 # Hi 👋, I'm Anusha
 
-A undergrad from Anna University,MIT campus  <a href="https://annauniv.edu" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Anna_University_Logo.svg/1200px-Anna_University_Logo.svg.png" width="40" alt="Anna University"/>
+A undergrad from Anna University,MIT campus  <p align="left">
+  <a href="https://annauniv.edu">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Anna_University_Logo.svg" width="40" alt="Anna University"/>
   </a>
 </p>
+
+
  
 I currently learning Datascience Applications and python in artificial intelligence.
 
