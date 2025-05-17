@@ -2,7 +2,7 @@
 
 A student from MIT , currently learning Datascience and python in artitificial intelligence.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anusha&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Anusharavi05&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
@@ -20,8 +20,10 @@ A student from MIT , currently learning Datascience and python in artitificial i
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 My practice platforms
-![HACKERRANK](https://www.hackerrank.com/profile/anusharavi_828)
-![LEETCODE](https://leetcode.com/u/anusha_ravi/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/anusha_ravi)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Anusha R)
+
+
 
 
 
