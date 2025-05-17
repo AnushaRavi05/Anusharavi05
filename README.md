@@ -21,14 +21,11 @@ A student from MIT , currently learning Datascience and python in artitificial i
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+
 My practice platforms
 
 
-<p align="left">
-  <p>Github</p>
-  <a href="https://github.com/Anusharavi05">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  </a>
+
   <Hackerrank>
   <a href="https://www.hackerrank.com/Anusha R/@anusharavi_828">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" alt="HackerRank"/>
@@ -61,8 +58,13 @@ My practice platforms
 ## 📫 Connect with Me
 
 - ✉️ Email: [anusharavi828@gmail.com](mailto:anusha828@gmail.com)
-- 💼GitHub: [github.com/Anusha](https://github.com/Anusharavi05)
--  [LinkedIn]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="40" height="40">
+- <p align="left">
+  <p>Github</p>
+  <a href="https://github.com/Anusharavi05">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </a>
+  <p>lLinkedIn</p>
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="40" height="40">
 (https://www.linkedin.com/in/anusha-ravi-40b04b292/)
 
 
