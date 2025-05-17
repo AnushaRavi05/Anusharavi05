@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anusha
 
-A passionate FullStack Developer from India, currently learning DBMS, and exploring design with Figma.
+A passionate FullStack Developer from India, currently Datascience and python in artitificial intelligence.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anusha&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -18,9 +18,8 @@ A passionate FullStack Developer from India, currently learning DBMS, and explor
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
 
 ---
 
@@ -40,10 +39,9 @@ A passionate FullStack Developer from India, currently learning DBMS, and explor
 
 ## 📫 Connect with Me
 
-- ✉️ Email: [anusha264@gmail.com](mailto:anusha264@gmail.com)
+- ✉️ Email: [anusharavi828@gmail.com](mailto:anusha828@gmail.com)
 - 💼 GitHub: [github.com/Anusha](https://github.com/Anusha)
 - 🔗 [Resume](https://drive.google.com/file/d/your_resume_link_here/view?usp=drive_link)
-- 💡 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-gfg-username/profile)
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 
 ---
