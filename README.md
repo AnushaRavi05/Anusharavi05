@@ -1,8 +1,11 @@
 # Hi 👋, I'm Anusha Ravi
 
 🎓 An undergraduate student at Anna University, MIT Campus
+
 💻 Currently learning Data Science Applications and Python in Artificial Intelligence
+
 🚀 Passionate about building intelligent solutions using data-driven approaches
+
 📚 Eager to explore Machine Learning, Deep Learning, and real-world AI use cases
 
 
@@ -44,7 +47,7 @@
 
 
 
-My practice platforms
+🧠 Practice Platforms
 
   <p>Hackerrank</p>
   <a href="https://www.hackerrank.com/Anusha R/@anusharavi_828">
