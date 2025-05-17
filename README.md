@@ -1,15 +1,10 @@
-# Hi 👋, I'm Anusha
+# Hi 👋, I'm Anusha Ravi
 
-A undergrad from Anna University,MIT campus  <p align="left">
-  <a href="https://annauniv.edu">
-    <img src="https://upload.wikimedia.org/wikipedia/en/7/7e/Anna_University_Logo.png" width="50" alt="Anna University"/>
-  </a>
-</p>
+🎓 An undergraduate student at Anna University, MIT Campus
+💻 Currently learning Data Science Applications and Python in Artificial Intelligence
+🚀 Passionate about building intelligent solutions using data-driven approaches
+📚 Eager to explore Machine Learning, Deep Learning, and real-world AI use cases
 
-
-
- 
-I currently learning Datascience Applications and python in artificial intelligence.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anusharavi05&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -20,14 +15,11 @@ I currently learning Datascience Applications and python in artificial intellige
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/> HTML
-  </a><br/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  </a><br/><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/> CSS
-  </a><br/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  </a><br/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/> JavaScript
-  </a><br/>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  </a><br/> <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/> TypeScript
   </a><br/>
   <a href="https://www.java.com/" target="_blank">
