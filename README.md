@@ -49,9 +49,17 @@ My practice platforms
 ## 📫 Connect with Me
 
 - ✉️ Email: [anusharavi828@gmail.com](mailto:anusha828@gmail.com)
-- 💼 GitHub: [github.com/Anusha](https://github.com/Anusharavi05)
--  [LinkedIn](https://www.linkedin.com/in/anusha-ravi-40b04b292/)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="40" height="40">
-
+- 💼GitHub: [github.com/Anusha](https://github.com/Anusharavi05)
+-  [LinkedIn]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="40" height="40">
+(https://www.linkedin.com/in/anusha-ravi-40b04b292/)
+<p align="left">
+  <a href="https://github.com/Anusharavi05">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </a>
+  <a href="https://www.hackerrank.com/Anusha R/@anusharavi_828">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" alt="HackerRank"/>
+  </a>
+</p>
 
 
 
