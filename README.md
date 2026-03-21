@@ -2,11 +2,12 @@
 
 🎓 An undergraduate student at Anna University, MIT Campus
 
-💻 Currently learning Data Science Applications and Python in Artificial Intelligence
+💻 Currently learning Cloud Computing fundamentals
 
-🚀 Passionate about building intelligent solutions using data-driven approaches
+🚀 Aspiring Software Engineer and passionate about building real-world applications
 
-📚 Eager to explore Machine Learning, Deep Learning, and real-world AI use cases
+📚 Exploring core concepts in programming and software development
+
 
 
 ## 🔧 Languages and Tools
