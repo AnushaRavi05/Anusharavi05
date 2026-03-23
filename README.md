@@ -60,13 +60,11 @@
 
 ## 📊 GitHub Stats
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Anusharavi05&label=Profile%20views&color=0e75b6&style=flat)
 
-![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anusharavi05&show_icons=true&theme=default&count_private=true)
+![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anusharavi05&show_icons=true&theme=radical&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anusharavi05&theme=default)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Anusharavi05&theme=dark)
 
 
 
