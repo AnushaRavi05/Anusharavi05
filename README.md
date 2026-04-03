@@ -1,4 +1,4 @@
-# Hi 👋, I'm Anusha Ravi
+# Hi 👋, I'm Anusha
 
 🎓 An undergraduate student at Anna University, MIT Campus
 
