@@ -1,16 +1,16 @@
-# Hi 👋, I'm Anusha
+# Hi , I'm Anusha
 
-🎓 An undergraduate student at Anna University, MIT Campus
+ An undergraduate student at Anna University, MIT Campus
 
-💻 Currently learning Cloud Computing fundamentals
+Currently learning Cloud Computing fundamentals
 
-🚀 Aspiring Software Engineer and passionate about building real-world applications
+ Aspiring Software Engineer and passionate about building real-world applications
 
-📚 Exploring core concepts in programming and software development
+Exploring core concepts in programming and software development
 
 
 
-## 🔧 Languages and Tools
+##  Languages and Tools
 
 
 <p align="left">
@@ -42,7 +42,7 @@
 
 
 
-🧠 Practice Platforms
+ Practice Platforms
 
 
   <p>Hackerrank</p>
@@ -55,21 +55,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Anusharavi05&label=Profile%20views&color=0e75b6&style=flat)
-
-![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anusharavi05&show_icons=true&theme=radical&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anusharavi05&theme=dark)
-
-
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Anusharavi05&theme=flat&column=7)
-
-## 📫 Connect with Me
+## Connect with Me
   <p>Gmail</p>
  <p align="left">
   <a href="mailto:anusharavi828@gmail.com.com" target="_blank">
